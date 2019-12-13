@@ -28,7 +28,7 @@
     "text": "div#BookText"
   },
   "search": {
-    "link": "http://www.94xsw.info/modules/article/search.php?searchkey=${key},{"charset": "gbk"}",
+    "link": "http://www.94xsw.info@post->searchkey=${key}&Submit=搜索",
     "list": "div.details > div"
   }
 }
