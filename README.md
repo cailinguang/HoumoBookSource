@@ -4,4 +4,4 @@
 
 **书源地址：**
 
-https://github.com/zdz6215591/HoumoBookSource/blob/master/repository.json
+https://raw.githubusercontent.com/zdz6215591/HoumoBookSource/master/repository.json
