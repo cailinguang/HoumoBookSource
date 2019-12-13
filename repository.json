@@ -9,6 +9,15 @@
       "rank": 0,
       "auth": false,
       "version": 100
+    },
+    {
+      "name": "磨铁中文网",
+      "url": "http://m.motie.com",
+      "category": 1,
+      "rank": 12,
+      "auth": true,
+      "version": 100,
+      "beta": true
     }
   ]
 }
