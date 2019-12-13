@@ -3,12 +3,11 @@
   "summary": "This is just a book source repository.",
   "list": [
     {
-      "name": "笔趣阁",
-      "url": "https://www.biqubao.com",
+      "name": "半亩方塘书苑",
+      "url": "http://www.tushuu.com/",
+      "version": 100,
       "category": 1,
-      "rank": 0,
-      "auth": false,
-      "version": 103
+      "charset": "utf-8"
     },
     {
       "name": "动漫之家",
