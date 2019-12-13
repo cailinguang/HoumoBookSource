@@ -8,7 +8,6 @@
     "name": ["$.name", "$.data.name"],
     "author": ["$.authorName", "$.data.authorName"],
     "cover": ["$.icon@js->.match(/(.+)\\?/g)", "$.data.icon@js->.match(/(.+)\\?/g)"],
-    "summary": ["$.introduce", "$.data.introduce"],
     "category": ["$.data.sortName"],
     "status": ["$.data.finished@js->if(${this} == 'true') '完结'; else '连载'"],
     "update": ["$..chapterShowTime"],
