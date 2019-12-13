@@ -8,7 +8,8 @@
       "category": 1,
       "rank": 0,
       "auth": false,
-      "version": 100
+      "version": 100,
+      "beta": true
     },
     {
       "name": "磨铁中文网",
