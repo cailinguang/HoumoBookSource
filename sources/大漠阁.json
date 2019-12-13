@@ -1,0 +1,34 @@
+{
+  "name": "大漠阁",
+  "version": 100,
+  "category": 1,
+  "url": "http://www.damoge.com/",
+  "charset": "utf-8",
+  "metadata": {
+    "name": ["h2 > a"],
+    "author": ["div.infos > span:nth-child(1) > a"],
+    "cover": ["img@attr->src"],
+    "summary": ["p"],
+    "category": ["div.infos > span:nth-child(4)"],
+    "status": ["div.infos > span:nth-child(3)"],
+    "update": [],
+    "lastChapter": [],
+    "link": ["h2@attr->href"],
+    "catalog": []
+  },
+  "catalog": {
+    "list": "div.book_list > ul > li",
+    "orderBy": 1,
+    "chapter": {
+      "name": "a",
+      "link": "a@attr->href"
+    }
+  },
+  "content": {
+    "text": "div.contentbox"
+  },
+  "search": {
+    "link": "http://www.damoke.cc/plus/search.php?kwtype=0&searchtype=&q=${key}",
+    "list": "div.so.new"
+  }
+}
