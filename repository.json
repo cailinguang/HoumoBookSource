@@ -12,6 +12,15 @@
       "beta": true
     },
     {
+      "name": "大漠阁",
+      "url": "http://www.damoge.com/",
+      "category": 1,
+      "rank": 0,
+      "auth": false,
+      "version": 100,
+      "beta": true
+    },
+    {
       "name": "磨铁中文网",
       "url": "http://m.motie.com",
       "category": 1,
