@@ -9,7 +9,7 @@
     "author": ["i:nth-child(1)"],
     "cover": ["img@attr->src"],
     "summary": ["p:nth-child(5)"],
-    "category": [],
+    "category": ["wu"],
     "status": ["p:nth-child(3) > i:nth-child(2)"],
     "update": ["p:nth-child(4) > i"],
     "lastChapter": ["p:nth-child(4) > a"],
