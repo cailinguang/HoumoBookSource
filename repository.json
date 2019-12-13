@@ -5,9 +5,10 @@
     {
       "name": "半亩方塘书苑",
       "url": "http://www.tushuu.com/",
-      "version": 100,
       "category": 1,
-      "charset": "utf-8"
+      "rank": 0,
+      "auth": false,
+      "version": 100
     },
     {
       "name": "动漫之家",
