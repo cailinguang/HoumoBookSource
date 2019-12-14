@@ -13,7 +13,7 @@
     "status": ["div.infos > span:nth-child(3)"],
     "update": [],
     "lastChapter": [],
-    "link": ["h2@attr->href"],
+    "link": [":nth-child(2) > a@attr->href"],
     "catalog": []
   },
   "catalog": {
