@@ -27,6 +27,15 @@
       "rank":19,
       "auth":false,
       "version":104
+    },
+    {
+      "name": "雁北堂",
+      "url": "http://ebtang.com/",
+      "category": 1,
+      "rank": 0,
+      "auth": false,
+      "version": 100,
+      "beta": true
     }
   ]
 }
